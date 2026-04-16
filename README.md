@@ -2,7 +2,7 @@
 
 An ESP32-based solar panel monitor that measures bus voltage, current, and power of a small PV module, shows live readings on an OLED, and publishes JSON telemetry to an MQTT broker over Wi-Fi. Measurements were validated against a bench multimeter and a lab power supply.
 
-![Circuit diagram](images/circuit_diagram.png)
+![Circuit diagram](https://github.com/ghulam420-sarwar/Solar-Monitoring-System/blob/main/circuit_diagram.png)
 
 ## Highlights
 
